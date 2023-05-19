@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+###🐢-Name: Jank.
+###🧬I'm: 17 years old
+###💾-Currently learning: Backend; NodeJS, Mysql.
+
+
+
+I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and JavaScript about 3 years ago. However, I couldn't practice continuesly because of school. I always tried to make 
+
 <!--
 **JJ-NM/JJ-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
