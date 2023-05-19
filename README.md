@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and JavaScript about 3 years ago. However, I couldn't practice continuously because of school. I manage to teach myself React and I always tried to work on personal projects to improve my skills and knowledge.
+I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and JavaScript about 3 years ago. However, I couldn't practice continuously because of school. I manage to teach myself React anyway and I always tried to work on personal projects to improve my skills and knowledge.
 
 <h2 align="center">Languages</h2>
 <hr>
