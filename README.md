@@ -1,10 +1,10 @@
 <h2 align="center">### Hi there 👋</h2>
-<div align="center" text-align="left">
-  <p>
-    🐢-Name: Jank.</br>
-    🧬-I'm: 17 years old.</br>
-    💾-Currently learning: Backend; NodeJS, Mysql.</br>
-  </p>
+<div align="center">
+  <ul>
+    <li>🐢-Name: Jank.</li>
+    <li>🧬-I'm: 17 years old.</li>
+    <li>💾-Currently learning: Backend; NodeJS, Mysql.</li>
+  </ul>
 </div>
 
 I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and JavaScript about 3 years ago. However, I couldn't practice continuously because of school. I manage to teach myself React and I always tried to work on personal projects to improve my skills and knowledge.
