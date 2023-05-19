@@ -11,7 +11,8 @@ I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and Ja
 
 <h2 align="center">Languages</h2>
 <hr>
-![img.icons8.png](<https://raw.githubusercontent.com/JJ-NM/JJ-NM/main/languagues/img.icons8.png>)
+
+![js](languagues/img.icons8.png)
 <!--
 **JJ-NM/JJ-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
