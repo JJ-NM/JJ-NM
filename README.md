@@ -1,5 +1,5 @@
 <h2 align="center">### Hi there 👋</h2>
-<div align="center">
+<div align="center" text-align="left">
   <p>
     🐢-Name: Jank.</br>
     🧬-I'm: 17 years old.</br>
