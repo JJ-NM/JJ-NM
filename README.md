@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-###🐢-Name: Jank.
-###🧬I'm: 17 years old
-###💾-Currently learning: Backend; NodeJS, Mysql.
+🐢-Name: Jank.
+🧬-I'm: 17 years old
+💾-Currently learning: Backend; NodeJS, Mysql.
 
 
 
