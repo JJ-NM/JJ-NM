@@ -10,7 +10,6 @@
 I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and JavaScript about 3 years ago. However, I couldn't practice continuously because of school. I manage to teach myself React anyway and I always tried to work on personal projects to improve my skills and knowledge.
 
 <h2 align="center">Languages, frameworks, etc.</h2>
-<hr>
 
 <div display="flex" flex-direction="row" align="center">
     <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,10 +21,13 @@ I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and Ja
 </div>
 
 <br/>
-<hr>
+<br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jankmg&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+<h2 align="center">Github Summary</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jankmg&theme=dark&hide_border=true&background=EB545400" alt="https://git.io/streak-stats"/>
+</p>
 <!--
 **JJ-NM/JJ-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
