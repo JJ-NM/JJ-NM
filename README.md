@@ -20,6 +20,12 @@ I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and Ja
     <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>      
 </div>
+
+<br/>
+<hr>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jankmg&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 <!--
 **JJ-NM/JJ-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
