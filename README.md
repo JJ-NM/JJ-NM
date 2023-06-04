@@ -24,7 +24,7 @@ I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and Ja
 <br/>
 <br/>
 
-<h2 align="center">Github Summary</h2>
+<h2 align="center">Github Stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jankmg&theme=dark&hide_border=true&background=EB545400" alt="https://git.io/streak-stats"/>
 </p>
