@@ -28,6 +28,11 @@ I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and Ja
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jankmg&theme=dark&hide_border=true&background=EB545400" alt="https://git.io/streak-stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jankmg&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankmg&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="https://github.com/anuraghazra/github-readme-stats" />
+</p>
 <!--
 **JJ-NM/JJ-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
