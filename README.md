@@ -9,7 +9,7 @@
 
 I'm Jank. I'm a junior front-end developer. I started learning HTML, CSS, and JavaScript about 3 years ago. However, I couldn't practice continuously because of school. I manage to teach myself React anyway and I always tried to work on personal projects to improve my skills and knowledge.
 
-<h2 align="center">Languages, frameworks, etc.</h2>
+<h2 align="center">Languages, frameworks, technologies, etc.</h2>
 
 <div display="flex" flex-direction="row" align="center">
     <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
