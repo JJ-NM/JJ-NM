@@ -2,7 +2,6 @@
 <div>
   <ul>
     <li>🐢-Name: Jank.</li>
-    <li>🧬-I'm: 17 years old.</li>
     <li>💾-Currently learning: Backend teachnologies such as NodeJS and Mysql.</li>
   </ul>
 </div>
